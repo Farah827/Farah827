@@ -22,12 +22,6 @@
 **Other Skills:** Data Structures & Algorithms, REST APIs  
 **Tools:** Git, GitHub, VS Code  
 
----
-
-### 🌸 Fun Facts  
-- ☕ Coffee is my coding fuel  
-- 🎀 Love turning ideas into **real projects**  
-- 🌷 Dreaming of contributing to **open-source & impactful projects**  
 
 ---
 
